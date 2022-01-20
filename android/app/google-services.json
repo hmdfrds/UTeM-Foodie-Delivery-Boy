@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "460074726645",
+    "project_id": "utem-foodie-e4d62",
+    "storage_bucket": "utem-foodie-e4d62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460074726645:android:619868dc2410863dadc1bc",
+        "android_client_info": {
+          "package_name": "com.example.foodir_delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460074726645-lkh3kec7svar2r05p78lbg15qv0rhvhn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBENMfMba1mmt_ZMCZHi5eCFVdrlmoPKZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460074726645-lkh3kec7svar2r05p78lbg15qv0rhvhn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460074726645:android:f88fdf8252b7749badc1bc",
+        "android_client_info": {
+          "package_name": "com.example.utem_foodie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460074726645-lkh3kec7svar2r05p78lbg15qv0rhvhn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBENMfMba1mmt_ZMCZHi5eCFVdrlmoPKZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460074726645-lkh3kec7svar2r05p78lbg15qv0rhvhn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460074726645:android:344be7aaebd1062eadc1bc",
+        "android_client_info": {
+          "package_name": "com.example.utem_foodir_vendor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460074726645-lkh3kec7svar2r05p78lbg15qv0rhvhn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBENMfMba1mmt_ZMCZHi5eCFVdrlmoPKZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460074726645-lkh3kec7svar2r05p78lbg15qv0rhvhn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
